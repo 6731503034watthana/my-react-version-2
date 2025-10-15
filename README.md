@@ -33,6 +33,7 @@ npm run dev
 docker compose build
 
 🔹 รันทั้งหมดพร้อมกัน
+
 docker compose up
 
 
